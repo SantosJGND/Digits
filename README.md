@@ -1,5 +1,13 @@
 ## KDE estimation of hand-written digits and population genetics.
 
+This repository is composed of two main Jupyter notebooks:
+- Digits
+- Digital_population_genetics
+
+copy-paste the urls of jupyter notebooks hosted on GitHub onto [NBviewer](https://nbviewer.jupyter.org/) to view the analysis within.
+
+## Context
+
 The creation of this repository was stimulated by observations made in the course of the simulations of 
 haplotype samples ([Genetic Data Analysis repository](https://github.com/SantosJGND/Genetic-data-analysis)). 
 In summary, as part of a larger project on the description of genetic variation in large genomics data sets, 
