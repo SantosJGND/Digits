@@ -29,7 +29,7 @@ to a population ID. The hypothesis of a uniform distribution draws from our sing
 patterns of admixture are likely to present non-random distributions at the individual and population level. 
 
 In this context, we explored a method of managing local patterns of assignement at a population level that could be 
-of use to model of genomic data.
+of use to model and simulate genomic data.
 
 In order to explore this question without confusing our purpose with that of modelling population genetics parameters,
 we will extract our prior of individual local genomic admixture proportions from the most obviously synthetic model
