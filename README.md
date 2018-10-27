@@ -24,9 +24,12 @@ While the accompanying simulations rest on a number of simplifying assumptions, 
 avenue of research. For example, we combined it with the inclusion individual admixture proportions to study our 
 ability to identify local introgressions, foreign and reference, in admixed genomes as a function of genetic structure. 
 
-This path led to the question: **can we include more complicated models of population admixture in our simulations?**
-We wish to answer this question without delving into complicated modelling. That is, by what mechanism would we 
-generate admixed genomes if we had access to historical and pedigree data. **In what format must that model come?**
+In these simulations, individual admixture was modelled as a uniform probability of transition between origins associated
+to a population ID. The hypothesis of a uniform distribution draws from our single estimate of admixture proportion. In reality,
+patterns of admixture are likely to present non-random distributions at the individual and population level. 
+
+In this context, we explored a method of managing local patterns of assignement at a population level that could be 
+of use to model of genomic data.
 
 In order to explore this question without confusing our purpose with that of modelling population genetics parameters,
 we will extract our prior of individual local genomic admixture proportions from the most obviously synthetic model
