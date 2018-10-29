@@ -4,7 +4,7 @@ This repository is composed of two main Jupyter notebooks:
 - Digits
 - Digital_population_genetics
 
-copy-paste the urls of jupyter notebooks hosted on GitHub onto [NBviewer](https://nbviewer.jupyter.org/) to view the analysis within.
+copy-paste the urls of jupyter notebooks hosted on GitHub onto [NBviewer](https://nbviewer.jupyter.org/) to view the analyses within.
 
 ## Context
 
