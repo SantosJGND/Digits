@@ -39,3 +39,5 @@ possible.
 in a certain fasion, would produce recognisable patterns?**
 
 We resorted to the MINST data set of hand-written digits for our sythetic priors.
+
+- Download the MNIST train and test data sets from the [MNIST Database](http://yann.lecun.com/exdb/mnist/)
