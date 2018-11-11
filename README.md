@@ -1,15 +1,16 @@
 ## KDE estimation of hand-written digits and population genetics.
 
 This repository is composed of two main Jupyter notebooks:
-- Digits
-- Digital_population_genetics
+- [Digits](https://nbviewer.jupyter.org/github/SantosJGND/Digits/blob/master/Digits.ipynb)
 
-copy-paste the urls of jupyter notebooks hosted on GitHub onto [NBviewer](https://nbviewer.jupyter.org/) to view the analyses within.
+- [Digital_population_genetics](https://nbviewer.jupyter.org/github/SantosJGND/Digits/blob/master/Digital_population_genetics.ipynb)
+
+*Note*: copy-paste the urls of jupyter notebooks hosted on GitHub onto [NBviewer](https://nbviewer.jupyter.org/) to view the analyses within.
 
 ## Context
 
 The creation of this repository was stimulated by observations made in the course of the simulations of 
-haplotype samples ([Genetic Data Analysis repository](https://github.com/SantosJGND/Genetic-data-analysis)). 
+haplotype samples ([Stats Lab](https://github.com/SantosJGND/Stats_Lab)). 
 In summary, as part of a larger project on the description of genetic variation in large genomics data sets, 
 we simulated haplotype populations as a means to test the use of different descriptors of genetic variation. 
 
@@ -19,7 +20,8 @@ approximate arbitrary selection and dominance scenarios. Because the descriptors
 or historic parameters we did not complicate simulations further.
 
 One of the benefits of the simulation protocol developped is the ability to include a function of genetic differentiation 
-by proxy genomic position (Notebook 10, [Genetic Data Analysis repository](https://github.com/SantosJGND/Genetic-data-analysis)).
+by proxy genomic position ([Fig. 2](https://github.com/SantosJGND/Stats_Lab/blob/master/Complementary_data/Ideo_comparison.png), 
+[Stats Lab](https://github.com/SantosJGND/Stats_Lab), Notebook).
 While the accompanying simulations rest on a number of simplifying assumptions, this development opened an interesting 
 avenue of research. For example, we combined it with the inclusion individual admixture proportions to study our 
 ability to identify local introgressions, foreign and reference, in admixed genomes as a function of genetic structure. 
