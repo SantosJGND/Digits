@@ -682,6 +682,7 @@ def return_ideogram(ideo, chromosome_list, Comparison_threshold, Outlier_thresho
 
     # Colors for different chromosome stains
     color_lookup = {
+        'white': [255,255,255],
         'red': [255, 0, 0],
         'yellow': [255, 255, 0],
         'blue': [0, 0, 255],
